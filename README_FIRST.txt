@@ -2,6 +2,9 @@ HOW TO USE :
 
 1. "src" folder has all the important files :
 
+download the EAST detection model (cannot be uploaded here because file size > 25mb) 
+it will NOT work without the EAST detection model
+
 "test_images" has the images you want to test 
 	
 "main.py" is the script that has to be executed
